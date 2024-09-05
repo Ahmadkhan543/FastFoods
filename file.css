@@ -1,0 +1,38 @@
+h1{text-align:center; gabriola;font-size: 70px; color: blue;background-color: brown; border: 5px gold groove; }
+.style{font-size:30;font-family: gabriola; color: black;}
+    .dd{text-align: center; background-color: gray; font: size 70px;padding: 20px;}
+    
+.hover{text-decoration: underline; color: greenyellow;}
+
+
+
+h2{text-align:center; gabriola;font-size: 40px; color: rgb(8, 245, 126);background-color: rgb(100, 97, 97);}
+
+.shadow{box-shadow: 0  4px  8px rgba(0, 0, 0, 0.2);}
+
+
+
+
+.TABLE{/* General table styling */
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+        background-color: #f9f9f9;
+    }
+    
+    /* Table header styling */
+    th {
+        background-color: #4CAF50;
+        color: white;
+        padding: 12px;
+        text-align: left;
+    }
+    
+    /* Table row styling */
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+    
+    tr
+    text-align: content: ;}
